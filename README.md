@@ -1,7 +1,7 @@
 # Web-сервисы
 
 ---
-# 32 - FastAPI Web Application with Jinja2 Templates
+## 32 - FastAPI Web Application with Jinja2 Templates
 
 Веб-приложение на FastAPI с рендерингом HTML-шаблонов через Jinja2.
 
